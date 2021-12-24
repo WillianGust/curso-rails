@@ -1,0 +1,1 @@
+puts "Ola curso Rails!"
